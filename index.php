@@ -165,7 +165,7 @@
         $("#info").html("CLICK START TO BEGIN");
       })
 
-
+      //ini perubahan
     </script>
   </body>
 
